@@ -1,35 +1,36 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Edgar Stick López Murcia
+Fecha: 28/04/2026
+Nombre de la rama:  Edgar_Stick_López_Murcia
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Sí, yo considero que el titulo que escribí "ayúdanos a construir nuestra comunidad" es corto y se entiende bien.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Sí, dice que la información se usará solo para participación y organización comunitaria.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: Sí, cada campo tiene su etiqueta como “Nombre del participante” o “Escribe tu propuesta para la comunidad” que resulta visible para el usuario.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Sí, es fácil de entender y no usa palabras complicadas o muy técnicas.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: Sí, solo pide lo básico como el Nombre, que tipo de propuesta de mejora desea escribir  y el contacto  que es opcional.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: Sí, hay un espacio grande donde se puede escribir bien la propuesta.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Sí, tiene una casilla para aceptar el uso de la información que solo se usara para fines de participación comunitaria.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: Sí, dice “Enviar participación”, que es claro.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: Sí, yo creo que el texto de la pagina es bastante claro y fácil de leer.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: podría incluir una opción para que el usuario participe de forma anónima para que los usuarios
+se animen a participar y también podría poner ejemplos para las personas que no saben que escribir.
